@@ -1,5 +1,5 @@
 # **Project information**
-This project is dedicated to predict the severity of a given accident based on data about accidents in the US. The methodology involved in this project can be divided into 5 steps.
+This project is dedicated to predict the severity of a given accident based on data about accidents in the US. The data involved in the study is from US Accidents (2016 - 2023) from Kaggle. The methodology involved in this project can be divided into 5 steps.
 
 # **Understanding the Problem**
 The objective of the study is to predict a crash severity on traffic. Since the project involved is to labelize the severity of the given accident based on information available, it will be formulated as **classification** problem. Model performance will be evaluated using accuracy and sparse categorical crossentropy metrics.
